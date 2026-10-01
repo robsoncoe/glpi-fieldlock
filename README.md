@@ -168,5 +168,3 @@ A desinstalação também remove os valores gravados em `glpi_configs`. O plugin
 ## Licença
 
 Distribuído sob **GPLv2+** (mesma licença dos plugins oficiais do GLPI).
-
-PauloNIsti 2
